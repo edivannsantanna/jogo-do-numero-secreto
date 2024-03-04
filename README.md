@@ -35,4 +35,4 @@ Este projeto está licenciado sob a licença MIT. Veja o arquivo `LICENSE` para 
 
 ## Créditos
 
-Este projeto foi desenvolvido no programa de formação ONE da Oracle,no curso de Lógica de Programação na Alura. Agradeço aos professores e aos colegas pelo aprendizado e pelas dicas.
+Este projeto foi desenvolvido no programa de formação ONE da Oracle, no curso de Lógica de Programação na Alura. Agradeço aos professores e aos colegas pelo aprendizado e pelas dicas.
