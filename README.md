@@ -2,8 +2,6 @@
 
 Este é um projeto de uma página web que implementa o jogo do número secreto usando HTML, CSS e JavaScript. O jogo consiste em adivinhar um número entre 1 e 10, com dicas e sem repetir o número secreto dentro do intervalo.
 
-!Jogo do Número Secreto
-
 ## Funcionalidades
 
 - O usuário pode digitar um número entre 1 e 10 e clicar no botão "Chutar".
@@ -28,10 +26,6 @@ Para instalar este projeto, você precisa ter um editor de código e um navegado
 - Clone este repositório para o seu computador usando o comando `git clone https://github.com/edivannsantanna/jogo-do-numero-secreto.git`.
 - Abra o arquivo `index.html` no seu editor de código e faça as alterações que desejar.
 - Abra o arquivo `index.html` no seu navegador web e veja o resultado.
-
-## Licença
-
-Este projeto está licenciado sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
 
 ## Créditos
 
